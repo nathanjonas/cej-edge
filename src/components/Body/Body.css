@@ -1,0 +1,22 @@
+.body {
+  margin-top: 25px;
+  text-align: left;
+}
+.body-title {
+  font-weight: 500;
+  font-size: larger;
+}
+
+.service-provided-title {
+  margin-bottom: 5px;
+  text-decoration: underline;
+}
+
+.body-ul {
+  list-style-type: none;
+}
+
+.body-li {
+  padding: 2px;
+  margin-left: 10px;
+}
