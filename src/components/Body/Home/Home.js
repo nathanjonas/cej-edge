@@ -18,7 +18,7 @@ export const Home = () => {
           manufacturing of cells, modules and packs.
         </p>
         <p className="home-body-para">
-          CEJ Edge proven results include implementation
+          CEJ Edge's proven results include implementation
           and manufacturing of Zero(0) defect production processes for high and low
           voltage battery systems to major OEM automotive companies.
         </p>
