@@ -1,0 +1,17 @@
+.footer-span {
+  padding-right: 15px;
+}
+
+.footer-container {
+  width: 100%;
+  border-top: solid;
+  border-width: thin;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  bottom: 0;
+  margin-top: 30px;
+}
+
+.footer-link {
+  color: black;
+}

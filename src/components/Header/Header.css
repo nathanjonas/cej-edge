@@ -1,6 +1,8 @@
 .header {
   border-bottom: solid;
+  border-color: #9fd79f;
   border-width: thin;
+  border-radius: 20px;
 }
 
 .header-text {
@@ -10,9 +12,4 @@
 .sub-header-text {
   font-weight: 300;
   margin-top: 0;
-}
-
-.sub-sub-header-text {
-  font-style: italic;
-  font-weight: 300;
 }

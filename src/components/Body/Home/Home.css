@@ -1,0 +1,25 @@
+.home-header {
+  font-size: 3rem;
+}
+
+.home {
+  background-color: lightgreen;
+  padding-bottom: 30px;
+}
+
+.home-body {
+  font-size: 1.3rem;
+  margin-left: 10px;
+  margin-right: 10px;
+  line-height: 35px;
+}
+
+.home-contact-para {
+  padding-top: 20px;
+}
+
+.home-body-para {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 25px;
+}

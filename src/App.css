@@ -1,7 +1,15 @@
+.react-app {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
 .App {
   text-align: center;
-  width: 800px;
   margin: auto;
+  font-family: sans-serif;
+  letter-spacing: 0.05rem;
+  font-weight: 700;
 }
 
 .App-logo {

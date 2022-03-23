@@ -1,0 +1,30 @@
+.what-we-do-title {
+  font-weight: 500;
+  font-size: 32px;
+  margin-bottom: 30px;
+  margin-top: 35px;
+}
+
+.what-we-do-header-text {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.service-provided-title {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.what-we-do-container {
+  margin: auto;
+  max-width: 1000px;
+  margin-top: 25px;
+  text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+  .what-we-do-container {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
