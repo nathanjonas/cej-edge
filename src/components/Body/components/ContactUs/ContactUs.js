@@ -5,6 +5,7 @@ import "./ContactUs.css"
 export const ContactUs = () => {
   const title = "Contact Us | CEJ Edge, LLC"
   const description = "Battery manufacturing, business plan deployment, and general consulting."
+
   return (
     <>
       <Helmet title={title} description={description} />

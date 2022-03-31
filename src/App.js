@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import { ContactUs } from "./components/Body/components/ContactUs/ContactUs";
 import { WhatWeDo } from "./components/Body/components/WhatWeDo/WhatWeDo";
 import { Header } from "./components/Header/Header";
@@ -9,7 +9,7 @@ import { Home } from "./components/Body/Home/Home";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <div className="react-app">
           <Header />
           <Routes>
@@ -20,7 +20,7 @@ function App() {
           </Routes>
           <Footer />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
