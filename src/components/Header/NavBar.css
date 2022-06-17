@@ -55,12 +55,19 @@
 
 @media only screen and (max-width: 600px) {
   .topnav {
-    display: block;
     margin: 0;
     margin-bottom: 15px;
+    flex-direction: column;
   }
 
   .nav-links {
     margin-bottom: 5px;
+    align-self: center;
+    margin: 0;
+  }
+
+  .nav-logo {
+    align-self: center;
+    margin: 0;
   }
 }
